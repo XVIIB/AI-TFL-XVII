@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon Aug 06 12:57:29 CST 2018
+1.base=E\:\\demo\\app\\build\\intermediates\\assets\\debug
+2.path=mobilenet_quant_v1_224.tflite
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\demo\\app\\build\\intermediates\\assets\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=labels_mobilenet_quant_v1_224.txt
+count=4
+1.set=ASSET
+0.path=labels.txt
+3.base=E\:\\demo\\app\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=E\:\\demo\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=BUILD

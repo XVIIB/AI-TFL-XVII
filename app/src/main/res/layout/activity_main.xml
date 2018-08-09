@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#696969"
+    tools:context="com.example.android.tflitecamerademo.MainActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#696969"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:id="@+id/bottom_info_view"
+        android:layout_marginBottom="10dp"
+        android:layout_height="500dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/timg"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="啥也妹有啊"
+            android:textColor="#00BFFF"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
+
